@@ -7,8 +7,8 @@ android {
 
     defaultConfig {
         applicationId "io.rpng.calibration"
-        minSdkVersion.apiLevel 21
-        targetSdkVersion.apiLevel 23
+        minSdkVersion 21
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
